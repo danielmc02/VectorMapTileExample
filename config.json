@@ -20,8 +20,8 @@
         "bounds": [8.529446, 47.364758, 8.55232, 47.380539]
       }
     },
-    "green-basic": {
-      "style": "green/style.json",
+    "green": {
+      "style": "green/new_style.json",
       "tilejson": {
         "type": "overlay",
         "bounds": [8.529446, 47.364758, 8.55232, 47.380539]
