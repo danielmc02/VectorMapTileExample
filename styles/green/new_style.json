@@ -2595,19 +2595,18 @@
         "text-halo-width": 2
       }
     },
+
     {
-      "id": "campus_points",
+      "id": "campus_point",
       "type": "symbol",
       "source": "allpoints",
       "source-layer": "all_points",
-      "layout": {
-        "text-field": "{name}",
-        "text-font": ["Open Sans Regular", "Arial Unicode MS Regular"],
-        "text-size": 12
-      },
-      "paint": {
-        "text-halo-color": "rgba(255, 255, 255, 1)",
-        "text-halo-width": 1
+      "layout": {"text-field": "{name}"},
+       "paint": {
+        "text-color": "#334",
+        "text-halo-color": "rgba(255,255,255,0.8)",
+        "text-halo-width":1
+
       }
     }
   ],
